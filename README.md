@@ -5,7 +5,7 @@ You need python libraries :
 
 numpy 
 
-usb.core for bulk communication 
+pyusb for bulk communication 
 
 matplotlib for ploting spectrum
 
